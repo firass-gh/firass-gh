@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firass-gh" alt="firass-gh" /></a> </p>
 
-- 🔭 I’m currently working on **Gym Management System**
+- 🔭 I’m currently working on **Rh-Platform**
 
-- 🌱 I’m currently learning **Spring and artificial intelligence**
+- 🌱 I’m currently learning **Automations tools**
 
 - 👯 I’m looking to collaborate on **software development projects**
 
