@@ -28,10 +28,6 @@
   <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" alt="ollama" width="40" height="40"/>
 </a>
 
-<a href="https://n8n.io/" target="_blank" rel="noreferrer">
-<img src="https://n8n.io/path/to/off-official-n8n-logo.svg" alt="n8n logo" width="40" height="40">
-</a>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firass-gh&show_icons=true&locale=en&layout=compact" alt="firass-gh" /></p>
 
