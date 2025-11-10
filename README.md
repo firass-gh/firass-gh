@@ -28,10 +28,11 @@
   <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" alt="ollama" width="40" height="40"/>
 </a>
 
-<!-- n8n -->
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/n8n_io/n8n_io-icon.svg" alt="n8n" width="40" height="40"/>
-</a></p>
+  <img src="https://your-server.com/path/to/n8n-logo-dark.svg"
+       alt="n8n" width="100" height="auto" style="background: #FFFFFF;"/>
+</a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firass-gh&show_icons=true&locale=en&layout=compact" alt="firass-gh" /></p>
 
