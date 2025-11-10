@@ -29,8 +29,7 @@
 </a>
 
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-  <img src="https://your-server.com/path/to/n8n-logo-dark.svg"
-       alt="n8n" width="100" height="auto" style="background: #FFFFFF;"/>
+<img src="https://n8n.io/path/to/off-official-n8n-logo.svg" alt="n8n logo" width="40" height="40">
 </a>
 
 
